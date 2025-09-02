@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "vue": "^3.5.18"
-  },
-  "devDependencies": {
-    "typescript": "^5.9.2"
-  }
-}
